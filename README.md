@@ -8,7 +8,7 @@ Movies App is a React-based movie website that allows users to search for movies
 
 <hr/>
 
-# 🍿 Features
+# ✨ Features
 
 - Search and watch movies: users can search for movies by title and can watch them easily
 - Genre-wise display: movies can be sorted by genre
@@ -20,9 +20,9 @@ Movies App is a React-based movie website that allows users to search for movies
 
 <hr/>
 
-# 🍿 Technology
+# ⚙️ Technology
 
-BlueBird-Movies is built using the following technologies:
+This App Movies is built using the following technologies:
 
 - ReactJS
 - TMDB API
@@ -31,7 +31,7 @@ BlueBird-Movies is built using the following technologies:
 
 <hr/>
 
-# 🍿 How to Run the Website on Your System
+# 🤔 How to Run the Website on Your System
 
 ## Step 1: Download and Extract the Code
 
@@ -75,7 +75,7 @@ Open your code editor (such as VS Code) and navigate to the project directory. T
 npm run dev
 ```
 
-This will start the application. Open a web browser and navigate to http://localhost:3000 to access the website.
+This will start the application. 
 
 Note: Ensure that you have carefully added the TMDB API key and Firebase authentication configuration to your .env file. If the .env file is not working, add all the API keys and configuration manually.
 
